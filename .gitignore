@@ -1,5 +1,9 @@
 HELP.md
 
+### Misc files ###
+
+*.zip
+
 ### Node JS ###
 
 sass/
